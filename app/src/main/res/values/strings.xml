@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Remote Config Demo</string>
+    <string name="fetch">Fetch</string>
+    <string name="changing_text">Changing Text</string>
+    <string name="color_of_the_text_will_change">Color of the text will change</string>
+    <string name="text_will_be_shown_in_either_with_caps_on_or_off">Text Will be shown in either with caps on or off.</string>
+</resources>

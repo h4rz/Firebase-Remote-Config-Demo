@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>config_key_change_text</key>
+        <value>Default Value 1</value>
+    </entry>
+    <entry>
+        <key>config_key_is_caps</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>config_key_change_color</key>
+        <value>#000000</value>
+    </entry>
+    <entry>
+        <key>config_key_change_image</key>
+        <value>https://i.pinimg.com/originals/28/09/a8/2809a841bb08827603ccac5c6aee8b33.png</value>
+    </entry>
+</defaultsMap>
