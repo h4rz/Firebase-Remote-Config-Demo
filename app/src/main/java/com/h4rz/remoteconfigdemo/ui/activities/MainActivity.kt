@@ -36,7 +36,7 @@ class MainActivity : BaseActivity() {
         initializeVariables()
         configureRemoteConfig()
         setupListeners()
-        //fetchFromRemoteConfig()
+        fetchFromRemoteConfig()
     }
 
     private fun setupListeners() {
